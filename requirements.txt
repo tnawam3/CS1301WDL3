@@ -1,0 +1,7 @@
+matplotlib
+streamlit
+google-generativeai
+requests
+matplotlib
+
+
